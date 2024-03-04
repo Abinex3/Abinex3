@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abinesh M</h1>
-<h3 align="center">A passionate frontend developer from chennai</h3>
+<h3 align="center">A passionate fullstack developer from chennai</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I have completed **MERN Stack**
 
 - 📫 reach me **abineshmuniyasaamy@gmail.com**
 
